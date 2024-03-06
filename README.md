@@ -15,7 +15,7 @@ For hosts to be successful on Airbnb, they need to consider many factors. New ho
 * Determine the most impactful amenities for achieving and maintaining superhost status in the Los Angeles Airbnb market.
 
 # Data
-Data was obtained http://insideairbnb.com/get-the-data/. Data has two csv files listings which contains 45591 records and 75 features that give information about each listing in western cape and host information. The reviews file has 1528123 rows and 6 columns which provide guest information and their reviews of the airbnb they stayed at.
+Data was obtained http://insideairbnb.com/get-the-data/. Data has two csv files listings which contains 45591 records and 75 features that give information about each listing and host information. The reviews file has 1528123 rows and 6 columns which provide guest information and their reviews of the airbnb they stayed at.
 
 #  Recommender System
 
